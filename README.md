@@ -28,8 +28,10 @@ This is a solution to the [Digital Business Card solo project on Scrimba](https:
 
 ### Screenshot
 
-![screenshot](/src/screenshot/Hassan's  digital card)
-![screenshot](/src/screenshot/digital card design)
+![Hassan's  digital card](https://github.com/Oroxhimaru/Digital-Business-Card/assets/110180871/5a189820-0dd9-44ea-920d-5df262efca64)
+![digital card design](https://github.com/Oroxhimaru/Digital-Business-Card/assets/110180871/98acbaf8-1649-4402-8080-96137e1c0297)
+
+
 
 ### Links
 
